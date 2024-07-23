@@ -3283,11 +3283,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\The user\\Desktop\\מסלול\\React\\פרויקט גמר\\‏‏WebApi - עותק\\BLL\\BLL.csproj",
+      "projectUniqueName": "D:\\Users\\The user\\Documents\\GitHub\\Cook-It-Yourself---server-side\\‏‏WebApi\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "D:\\Users\\The user\\Desktop\\מסלול\\React\\פרויקט גמר\\‏‏WebApi - עותק\\BLL\\BLL.csproj",
+      "projectPath": "D:\\Users\\The user\\Documents\\GitHub\\Cook-It-Yourself---server-side\\‏‏WebApi\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\The user\\Desktop\\מסלול\\React\\פרויקט גמר\\‏‏WebApi - עותק\\BLL\\obj\\",
+      "outputPath": "D:\\Users\\The user\\Documents\\GitHub\\Cook-It-Yourself---server-side\\‏‏WebApi\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3309,11 +3309,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Users\\The user\\Desktop\\מסלול\\React\\פרויקט גמר\\‏‏WebApi - עותק\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\Users\\The user\\Desktop\\מסלול\\React\\פרויקט גמר\\‏‏WebApi - עותק\\DAL\\DAL.csproj"
+            "D:\\Users\\The user\\Documents\\GitHub\\Cook-It-Yourself---server-side\\‏‏WebApi\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\Users\\The user\\Documents\\GitHub\\Cook-It-Yourself---server-side\\‏‏WebApi\\DAL\\DAL.csproj"
             },
-            "D:\\Users\\The user\\Desktop\\מסלול\\React\\פרויקט גמר\\‏‏WebApi - עותק\\DTO\\DTO.csproj": {
-              "projectPath": "D:\\Users\\The user\\Desktop\\מסלול\\React\\פרויקט גמר\\‏‏WebApi - עותק\\DTO\\DTO.csproj"
+            "D:\\Users\\The user\\Documents\\GitHub\\Cook-It-Yourself---server-side\\‏‏WebApi\\DTO\\DTO.csproj": {
+              "projectPath": "D:\\Users\\The user\\Documents\\GitHub\\Cook-It-Yourself---server-side\\‏‏WebApi\\DTO\\DTO.csproj"
             }
           }
         }

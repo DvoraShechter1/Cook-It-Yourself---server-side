@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y8iA0Vh62f15GKVeVWXLXhcqYRC1G/qVCK4i97LXbp2sYptJ1dT0AiTPzpOvs4Gium+HHeSv+rF1B+dBYndUSg==",
+  "dgSpecHash": "WowkqCA4GOV2VGV7o9h9Z8OfRPizUJDvDWyb0culAoDFmdrh4287O3X09qvgsJUeFo5ZRwv2PAm7enVX8z4vCw==",
   "success": true,
-  "projectFilePath": "D:\\Users\\The user\\Desktop\\מסלול\\React\\פרויקט גמר\\‏‏WebApi - עותק\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\Users\\The user\\Documents\\GitHub\\Cook-It-Yourself---server-side\\‏‏WebApi\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\The user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -40,6 +40,7 @@
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",

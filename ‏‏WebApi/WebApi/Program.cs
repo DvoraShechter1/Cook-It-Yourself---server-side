@@ -3,7 +3,9 @@ using BLL.Interfaces;
 using DAL.Functions;
 using DAL.Interfaces;
 using DAL.Models;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection.Metadata.Ecma335;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -54,11 +56,11 @@ builder.Services.AddCors(options =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 
 app.UseCors(builder =>
 {
@@ -74,5 +76,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.MapGet("/", () => "cook it yourself server is running");
 
 app.Run();

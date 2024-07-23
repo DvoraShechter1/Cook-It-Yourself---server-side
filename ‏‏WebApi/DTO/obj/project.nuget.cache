@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UAbxrfay3CrKyKkcM05YGiRtVy4DJEOz5KGQvi9YW3fQPJjXwwqmroncxh/fDZRynyDa71Xbmpp5RUUM0ICjSA==",
+  "dgSpecHash": "0tsl3706F8peLZJVEB1i8i+HyfntkVkYSOa5j4j3aYQr5jeZxY1bx3PTyN/lo0ENjRgrNsCRQMcu5v63tNdt1w==",
   "success": true,
-  "projectFilePath": "D:\\Users\\The user\\Desktop\\מסלול\\React\\פרויקט גמר\\‏‏WebApi - עותק\\DTO\\DTO.csproj",
+  "projectFilePath": "D:\\Users\\The user\\Documents\\GitHub\\Cook-It-Yourself---server-side\\‏‏WebApi\\DTO\\DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\The user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\The user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
